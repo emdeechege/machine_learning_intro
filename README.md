@@ -7,7 +7,7 @@ A machine learning project designed to analyze salary drivers and predict annual
 ## 📁 Project Structure
 
 ```text
-machine_learning_assignment/
+job_salary_prediction_machine_learning/
 │
 ├── data/
 │   ├── job_salary_prediction.csv               
